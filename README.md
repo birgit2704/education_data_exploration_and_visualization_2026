@@ -1,3 +1,5 @@
+<img src="docs/screenshot.png" width="400" alt="Tableau Story"/>
+
 # Wie steht es um das deutsche Bildungssystem? — Eine interaktive Datenanalyse
 
 Dieses Repository dokumentiert die Datenaufbereitung und Konzeption eines interaktiven Tableau-Dashboards, das den aktuellen Zustand des deutschen Bildungssystems beleuchtet. Die Analyse betrachtet Deutschland im internationalen Kontext (OECD/PISA), schlüsselt regionale Leistungsunterschiede auf Bundesländerebene auf und untersucht Leistungsdifferenzen zwischen Gymnasien und der Gesamtschülerschaft.
